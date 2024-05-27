@@ -1,0 +1,3 @@
+Is your Oracle safe enough? 😯
+nc 146.56.245.60 1337
+nc 146.56.245.60 1338

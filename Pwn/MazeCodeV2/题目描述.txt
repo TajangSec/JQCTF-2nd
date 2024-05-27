@@ -1,0 +1,7 @@
+version 2.0
+
+2024-05-12 [redacted]<xxx@xxx.com>
+        * main.cpp: Enable Full RELRO to make our program safer :p
+        * main.cpp (initialize): Now random map supported!
+        * main.cpp (check_solve): Now receive solution at most 512 bytes!
+        ...
